@@ -13,7 +13,7 @@ LIS 2360:  Web Application Development
 (In this assignment we were tasked with take an income tax calculator and editing the index.html code so that you could select different filling status. Also going and making sure that the clear calculator button completely cleared the page)
 
 ### View Project:
-(https://meganhope20.github.io/lesson5_javascript2/)
+(https://meganhope20.github.io/lesson5_javascript/)
 
 ### Lessons Learned in the Assignment:
 1. (If/else if statements are used to create situations in the code)
